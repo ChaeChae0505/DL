@@ -5,6 +5,5 @@
 - 정리링크
 
 
-[참고]
-( )
+[참고]  
 [1][pytorch CHEAT SHEET][https://pytorch.org/tutorials/beginner/ptcheat.html](https://pytorch.org/tutorials/beginner/ptcheat.html)
