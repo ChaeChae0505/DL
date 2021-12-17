@@ -6,7 +6,7 @@
   
 ---
 [Follow]  
-[1][따라하면서 공부해보기][https://sseunghyuns.github.io/archives/](https://sseunghyuns.github.io/archives/)
+[1][따라하면서 공부해보기](https://sseunghyuns.github.io/archives/)
    
     
       
@@ -14,4 +14,4 @@
         
 ---
 [참고]  
-[1][pytorch CHEAT SHEET][https://pytorch.org/tutorials/beginner/ptcheat.html](https://pytorch.org/tutorials/beginner/ptcheat.html)
+[1][pytorch CHEAT SHEET](https://pytorch.org/tutorials/beginner/ptcheat.html)
