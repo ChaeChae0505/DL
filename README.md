@@ -3,11 +3,14 @@
 ### 병변검출 AI baseline code 공부
 - [출처](https://dacon.io/competitions/official/235855/codeshare/3725?page=1&dtype=recent)
 - 정리링크  
+
+### Weighted boxes fusion: Ensembling boxes from different object detection models
+
   
 ---
 [Follow]  
 [1][따라하면서 공부해보기](https://sseunghyuns.github.io/archives/)
-   
+
     
       
         
