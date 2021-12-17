@@ -6,4 +6,5 @@
 
 
 [참고]
+( )
 [1][pytorch CHEAT SHEET][https://pytorch.org/tutorials/beginner/ptcheat.html](https://pytorch.org/tutorials/beginner/ptcheat.html)
