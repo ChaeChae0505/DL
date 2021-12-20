@@ -10,7 +10,7 @@
 ---
 [Follow]  
 [1][따라하면서 공부해보기](https://sseunghyuns.github.io/archives/)
-
+[2][Pytorch tutorial](https://github.com/yunjey/pytorch-tutorial)
     
       
         
