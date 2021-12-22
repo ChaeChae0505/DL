@@ -73,6 +73,7 @@ Name: 0, dtype: int64
 print(type(df.iloc[[0]]))
 print(df.iloc[[0]])
 ```
+```
 <class 'pandas.core.frame.DataFrame'>
 
    a  b  c  d
