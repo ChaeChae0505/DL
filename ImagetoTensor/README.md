@@ -13,6 +13,14 @@ trans = transforms.Compose([transforms.Resize((100,100)), transforms.ToTensor(),
 trainset = torchvision.datasets.ImageFolder(root = f'{DIR}', transform = trans)
 ```
 
+## 2. DataLoader 네트워크에 올리기
+```python
+trainloader = DataLoader(trainset, batch_size=5, shuffle=False, num_workers=2)
+dataiter = iter(trainloader)
+images = dataiter.next()
+print(images)
+```
+> Image folder로 부터 불러온 trainset을 Dataloader를 통해 batch형식으로 네트워크에 올리는 방법이다.
 
 ## Tip
 ```python
