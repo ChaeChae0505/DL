@@ -101,7 +101,8 @@ df.iloc[[0, 1]]
 
 ### 2. label이나 조건으로 표현하는 방법
 
-'''
+```python
 df.loc['a']
-'''
-[!Image]()
+```
+
+![Image](https://github.com/ChaeChae0505/TIL_Deeplearning/blob/main/Image/pandasloc.JPG){: width="100" height="200"}
