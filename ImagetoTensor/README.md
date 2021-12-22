@@ -49,31 +49,32 @@ mydict = [{'a': 1, 'b': 2, 'c': 3, 'd': 4},
           {'a': 1000, 'b': 2000, 'c': 3000, 'd': 4000 }]
 df = pd.DataFrame(mydict)
 print(df)
-"""
-# 출력
+```
+```
       a     b     c     d
 0     1     2     3     4
 1   100   200   300   400
 2  1000  2000  3000  4000
-"""
-
+```
+```
 print(type(df.iloc[0]))
 print(df.iloc[0])
-"""
+```
+```
 <class 'pandas.core.series.Series'>
 a    1
 b    2
 c    3
 d    4
 Name: 0, dtype: int64
-"""
+```
 print(type(df.iloc[[0]]))
 print(df.iloc[[0]])
-"""
+```
 <class 'pandas.core.frame.DataFrame'>
    a  b  c  d
 0  1  2  3  4
-"""
 ```
+
 
 
