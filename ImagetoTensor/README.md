@@ -105,4 +105,4 @@ df.iloc[[0, 1]]
 df.loc['a']
 ```
 
-![Image](https://github.com/ChaeChae0505/TIL_Deeplearning/blob/main/Image/pandasloc.JPG){:width="70%" height="50%"}
+<img src="https://github.com/ChaeChae0505/TIL_Deeplearning/blob/main/Image/pandasloc.JPG" width="70%" height="50%">
