@@ -12,3 +12,9 @@ from torchvision import transforms
 trans = transforms.Compose([transforms.Resize((100,100)), transforms.ToTensor(), transforms.Normalize((0.5, 0.5, 0.5), (0.5,0.5,0.5))]
 trainset = torchvision.datasets.ImageFolder(root = f'{DIR}', transform = trans)
 ```
+
+
+## Tip
+```python
+plt.ion() # 반응형 모드
+```
