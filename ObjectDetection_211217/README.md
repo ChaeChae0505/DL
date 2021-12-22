@@ -71,6 +71,7 @@ plt.show()
 ```
 
 ## 데이터셋
+- torch에서 데이터 셋을 사용하기 위해서는 PIL, openCV로 불러온 data를 numpy array로 변환 후 torch.Tensor로 변환해 주어야한다.
 ```python
 class CustomDataset(Dataset):
     def __init__(self, json_list, mode='train'):
@@ -142,4 +143,5 @@ class CustomDataset(Dataset):
         if self.mode == 'test':
             target["file_name"] = file_name
         return img, target
-        ```
+```
+
