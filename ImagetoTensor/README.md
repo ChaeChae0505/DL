@@ -21,10 +21,10 @@ plt.ion() # 반응형 모드
 
 ## Tip Pandas
 > Pandas DataFrame에서 특정 행,열을 선택하는 방법은 여러가지임
-> 행번호(row number)로 선택하는 방법 (.iloc)
+> 행번호(row number)로 선택하는 방법 (.iloc)[출처](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.iloc.html)
 > label or 조건표현으로 선택 (.loc)
 
-### 1. 행번호(row number) 
+### 1. 행번호(row number)
 ```python
 data.iloc[0] # data의 첫번째 행만
 data.iloc[1] # 두번째 행만
@@ -51,6 +51,7 @@ df = pd.DataFrame(mydict)
 print(df)
 ```
 ```
+# 출력
       a     b     c     d
 0     1     2     3     4
 1   100   200   300   400
@@ -68,12 +69,25 @@ c    3
 d    4
 Name: 0, dtype: int64
 ```
+```
 print(type(df.iloc[[0]]))
 print(df.iloc[[0]])
 ```
 <class 'pandas.core.frame.DataFrame'>
+
    a  b  c  d
 0  1  2  3  4
+```
+> 위처럼 [[]]로 출력 하면 series 형태가 아닌 dataframe 형태로 출력이 된다
+
+```python
+df.iloc[[0, 1]]
+
+"""
+     a    b    c    d
+0    1    2    3    4
+1  100  200  300  400
+"""
 ```
 
 
