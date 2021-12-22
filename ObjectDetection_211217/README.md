@@ -5,15 +5,15 @@ Colab으로 진행하여고 했는데 데이터가 다 올라가지 않아 vscod
 ## VSCODE에 Anaconda activate (CMD창 필요 Ctrl+shift+`)
 
 # 코드구성
-- *데이터로드
+- * [Dataload](#dataload)
 - EDA & 시각화
-- *데이터셋 정의
-- *Model 구성
-- *Class, 함수 정의
-- *학습
+- * 데이터셋 정의
+- * Model 구성
+- * Class, 함수 정의
+- * 학습
 - 시각화
 
-> *기울어진 글자는 필수요소*
+> * 는 필수요소*
 ------
 
 ## Dataload
@@ -69,4 +69,6 @@ for i in range(30):
     plt.subplot(6,5,i+1).set_title(title)
 plt.show()
 ```
+
+## 데이터셋
 
