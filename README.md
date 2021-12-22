@@ -9,7 +9,7 @@
 
 ## 21.12.22
 ### Custom dataset 사용을 위한 Image to tensor
-- [정리링크]()
+- [정리링크](/Module/ImagetoTensor)
 ---
 [Follow]  
 [1][따라하면서 공부해보기](https://sseunghyuns.github.io/archives/)  
