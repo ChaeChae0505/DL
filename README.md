@@ -22,3 +22,4 @@
 ---
 [참고]  
 [1][pytorch CHEAT SHEET](https://pytorch.org/tutorials/beginner/ptcheat.html)
+[2][Python + 수학베이스 ](https://datascienceschool.net/02%20mathematics/08.02%20%EB%B2%A0%EB%A5%B4%EB%88%84%EC%9D%B4%EB%B6%84%ED%8F%AC%EC%99%80%20%EC%9D%B4%ED%95%AD%EB%B6%84%ED%8F%AC.html)
