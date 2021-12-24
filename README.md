@@ -1,4 +1,7 @@
 
+# 정리하는 내용
+- 개념적인 내용보다는 코드와 관련한 내용을 기술할 예정입니다.
+- 개념적인 내용은 [블로그 TIL_Deeplearning](https://1ch0.tistory.com/category/TIL/DeepLearning)파트에 정리하고 paper review 부분은 블로그 paper에 정리하도록하겠습니다.
 ## 21.12.17 
 ### 병변검출 AI baseline code 공부
 - [출처](https://dacon.io/competitions/official/235855/codeshare/3725?page=1&dtype=recent)
