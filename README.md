@@ -15,7 +15,8 @@
 
 ### Attention Is All You Need(21.12.24)
 - [Paper](https://arxiv.org/pdf/1706.03762.pdf)  
-- [정리링크]()
+- [Paperstudy]()
+- [Codestudy]()
 ---
 [Follow]  
 [1][따라하면서 공부해보기](https://sseunghyuns.github.io/archives/)  
