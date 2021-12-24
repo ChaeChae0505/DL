@@ -2,23 +2,20 @@
 # 정리하는 내용
 - 개념적인 내용보다는 코드와 관련한 내용을 기술할 예정입니다.
 - 개념적인 내용은 [블로그 TIL_Deeplearning](https://1ch0.tistory.com/category/TIL/DeepLearning)파트에 정리하고 paper review 부분은 블로그 paper에 정리하도록하겠습니다.
-## 21.12.17 
-### 병변검출 AI baseline code 공부
+
+### 병변검출 AI baseline code 공부 (21.12.17)  
 - [출처](https://dacon.io/competitions/official/235855/codeshare/3725?page=1&dtype=recent)
 - [Codestudy](https://github.com/ChaeChae0505/TIL_Deeplearning/tree/main/ObjectDetection_211217)
 
-### Weighted boxes fusion: Ensembling boxes from different object detection models
+### Weighted boxes fusion: Ensembling boxes from different object detection models(21.12.17)
 - [Codestudy](https://github.com/ChaeChae0505/TIL_Deeplearning/tree/main/WBF_211217)
 
-## 21.12.22
-### Custom dataset 사용을 위한 Image to tensor
+### Custom dataset 사용을 위한 Image to tensor(21.12.22)
 - [정리링크](/Module/ImagetoTensor)
 
-
-## 21.12.24
-### Attention Is All You Need
+### Attention Is All You Need(21.12.24)
 - [Paper](https://arxiv.org/pdf/1706.03762.pdf)  
-- [정리링크]
+- [정리링크]()
 ---
 [Follow]  
 [1][따라하면서 공부해보기](https://sseunghyuns.github.io/archives/)  
