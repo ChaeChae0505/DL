@@ -5,14 +5,20 @@
 ## 21.12.17 
 ### 병변검출 AI baseline code 공부
 - [출처](https://dacon.io/competitions/official/235855/codeshare/3725?page=1&dtype=recent)
-- [정리링크](https://github.com/ChaeChae0505/TIL_Deeplearning/tree/main/ObjectDetection_211217)
+- [Codestudy](https://github.com/ChaeChae0505/TIL_Deeplearning/tree/main/ObjectDetection_211217)
 
 ### Weighted boxes fusion: Ensembling boxes from different object detection models
-- [정리링크](https://github.com/ChaeChae0505/TIL_Deeplearning/tree/main/WBF_211217)
+- [Codestudy](https://github.com/ChaeChae0505/TIL_Deeplearning/tree/main/WBF_211217)
 
 ## 21.12.22
 ### Custom dataset 사용을 위한 Image to tensor
 - [정리링크](/Module/ImagetoTensor)
+
+
+## 21.12.24
+### Attention Is All You Need
+- [Paper](https://arxiv.org/pdf/1706.03762.pdf)  
+- [정리링크]
 ---
 [Follow]  
 [1][따라하면서 공부해보기](https://sseunghyuns.github.io/archives/)  
