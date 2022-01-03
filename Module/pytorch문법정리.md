@@ -1,3 +1,4 @@
+- [이거 읽어보자](https://gaussian37.github.io/dl-pytorch-snippets/)
 - [이 글](https://anweh.tistory.com/21) 과 유사함 이글을 보는 것을 추천 요고는 저를 위한 정리 ~!!!
 - PoseCNN을 이해하는 과정에서 module을 어떻게 만드는지 궁금해서 찾아보게 됨
 
